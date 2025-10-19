@@ -1,1 +1,1 @@
-java -cp ./lib/*;./dist/*;. SkyCity
+java -cp ./lib/*;./dist/*;. Main
