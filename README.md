@@ -4,12 +4,12 @@ Made with licence-free models and music from pixabay. In addition to Java it req
 
 <table>
 <tr>
-  <td><img src="https://github.com/conradplake/the-tunnel-chase/blob/99b20a990fbe9e93d9049f33dd9d2ce30dae7973/screenshots/Screenshot1.png" alt="Sreenshot_1" width="300"></td>
-  <td><img src="https://github.com/conradplake/the-tunnel-chase/blob/99b20a990fbe9e93d9049f33dd9d2ce30dae7973/screenshots/Screenshot2.png" alt="Sreenshot_2" width="300"></td>
-  <td><img src="https://github.com/conradplake/the-tunnel-chase/blob/99b20a990fbe9e93d9049f33dd9d2ce30dae7973/screenshots/Screenshot3.png" alt="Sreenshot_3" width="300"></td>
+  <td><img src="https://github.com/conradplake/the-tunnel-chase/blob/99b20a990fbe9e93d9049f33dd9d2ce30dae7973/screenshots/Screenshot1.png" alt="Screenshot_1" width="300"></td>
+  <td><img src="https://github.com/conradplake/the-tunnel-chase/blob/99b20a990fbe9e93d9049f33dd9d2ce30dae7973/screenshots/Screenshot2.png" alt="Screenshot_2" width="300"></td>
+  <td><img src="https://github.com/conradplake/the-tunnel-chase/blob/99b20a990fbe9e93d9049f33dd9d2ce30dae7973/screenshots/Screenshot3.png" alt="Screenshot_3" width="300"></td>
 </tr>
 <tr>
-  <td><img src="https://github.com/conradplake/the-tunnel-chase/blob/99b20a990fbe9e93d9049f33dd9d2ce30dae7973/screenshots/Screenshot4.png" alt="Sreenshot_4" width="300"></td>
-  <td><img src="https://github.com/conradplake/the-tunnel-chase/blob/99b20a990fbe9e93d9049f33dd9d2ce30dae7973/screenshots/Screenshot5.png" alt="Sreenshot_5" width="300"></td>
+  <td><img src="https://github.com/conradplake/the-tunnel-chase/blob/99b20a990fbe9e93d9049f33dd9d2ce30dae7973/screenshots/Screenshot4.png" alt="Screenshot_4" width="300"></td>
+  <td><img src="https://github.com/conradplake/the-tunnel-chase/blob/99b20a990fbe9e93d9049f33dd9d2ce30dae7973/screenshots/Screenshot5.png" alt="Screenshot_5" width="300"></td>
 </tr>
 </table>
