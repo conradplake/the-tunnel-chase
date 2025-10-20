@@ -1,6 +1,6 @@
 # the-tunnel-chase
 A short star wars inspired 3d demo of a millennium falcon chasing down a tie fighter through an asteroid tunnel. 
-Made with licence-free models and music from pixabay. In addition to Java it requires OpenJFX for mp3 playback.
+Made with free models from TurboSquid and music from Pixabay. In addition to Java (JRE) <a href="https://openjfx.io/">OpenJFX</a> is required for mp3 playback.
 
 <table>
 <tr>
